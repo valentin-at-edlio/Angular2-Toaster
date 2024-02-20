@@ -1,3 +1,14 @@
+# FORK
+
+This is a forked version updated to work with Angular 12.
+
+### Publish new forked version to npm
+
+- use Node.js v18
+- `npm i`
+- `npm run build-prod`
+- `npm publish dist\angular2-toaster --access public`
+
 # Angular2-Toaster
 
 **angular2-toaster** is an asynchronous, non-blocking, Ahead of Time Compilation-supported Angular Toaster Notification library 
