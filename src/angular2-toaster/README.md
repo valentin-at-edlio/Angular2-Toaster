@@ -1,1 +1,6 @@
-This is a forked version of https://github.com/stabzs/Angular2-Toaster updated to work with Angular 12.
+Fork of https://github.com/stabzs/Angular2-Toaster
+
+| Version | Angular |
+|---------|---------|
+| 12.x.x  | 12      |
+| 13.x.x  | 13      |

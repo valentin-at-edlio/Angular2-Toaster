@@ -1,6 +1,6 @@
 # FORK
 
-This is a forked version updated to work with Angular 12.
+Fork of https://github.com/stabzs/Angular2-Toaster
 
 ### Publish new forked version to npm
 
