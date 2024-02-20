@@ -145,7 +145,6 @@
       }
     }
   },
-  "defaultProject": "angular2-toaster",
   "cli": {
     "analytics": false
   }
