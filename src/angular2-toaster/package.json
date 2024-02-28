@@ -1,7 +1,7 @@
 {
   "name": "@valentin-at-edlio/angular2-toaster",
   "description": "An Angular Toaster Notification library based on AngularJS-Toaster",
-  "version": "15.0.0",
+  "version": "16.0.0",
   "author": "Stabzs",
   "license": "MIT",
   "repository": {
@@ -24,9 +24,9 @@
     "growl"
   ],
   "peerDependencies": {
-    "@angular/common": "^15.0.0",
-    "@angular/compiler": "^15.0.0",
-    "@angular/core": "^15.0.0",
+    "@angular/common": "^16.0.0",
+    "@angular/compiler": "^16.0.0",
+    "@angular/core": "^16.0.0",
     "rxjs": "^7.4.0"
   },
   "dependencies": {

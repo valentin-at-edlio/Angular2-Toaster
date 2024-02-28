@@ -6,3 +6,4 @@ Fork of https://github.com/stabzs/Angular2-Toaster
 | 13.x.x  | 13      |
 | 14.x.x  | 14      |
 | 15.x.x  | 15      |
+| 16.x.x  | 16      |
